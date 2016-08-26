@@ -1,14 +1,17 @@
 h1 {
   font-family: 'Yellowtail', cursive;
+  font-weight: lighter;
 }
 
 h2 {
-  font-style: italic;
-  font-weight: normal;
+  font-weight: lighter;
+  font-size: 25px;
+  margin-bottom: 20px;
 }
 
 h5 {
   color: white;
+  font-weight: lighter;
 }
 
 .btn-default, .btn-default:focus {
@@ -23,11 +26,11 @@ h5 {
   color: #009ACD;
 }
 
-/*body {
+body {
   background: url("https://images.unsplash.com/photo-1467094568967-95f87ee9c873?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=51fe3b51e0512cc9fe5115040716205b");
   background-size: cover;
   background-attachment: fixed;
-}*/
+}
 
 #text-container {
   min-height: 170px;
