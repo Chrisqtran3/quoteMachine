@@ -128,5 +128,9 @@ var quotes = [
   {
     quote: "If you want a happy ending, that depends, of course, on where you stop your story.",
     author: "Orson Welles"
+  },
+  {
+    quote: "Github is hard.",
+    author: "Chris Tran"
   }
 ];
