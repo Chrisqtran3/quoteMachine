@@ -58,6 +58,10 @@ var quotes = [
     author: "Thomas Paine"
   },
   {
+    quote: "Meow meow meow",
+    author: "Stella"
+  },
+  {
     quote: "There's no shame in fear, my father told me. What matters is how we face it.",
     author: "Jon Snow"
   },
