@@ -58,10 +58,6 @@ var quotes = [
     author: "Thomas Paine"
   },
   {
-    quote: "Meow meow meow",
-    author: "Stella"
-  },
-  {
     quote: "There's no shame in fear, my father told me. What matters is how we face it.",
     author: "Jon Snow"
   },
@@ -128,9 +124,5 @@ var quotes = [
   {
     quote: "If you want a happy ending, that depends, of course, on where you stop your story.",
     author: "Orson Welles"
-  },
-  {
-    quote: "Github is hard.",
-    author: "Chris Tran"
   }
 ];
